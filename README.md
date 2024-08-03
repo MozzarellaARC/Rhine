@@ -25,5 +25,6 @@ Recommended 3D tools :
 Links
 [Sketchfab](https://sketchfab.com/3d-models/anime-basemesh-rhine-9-149973f7164a4fd685b2dbe9aa103378)
 
-Extra tools that helps the development of Rhine
-Meshmachine, Machin3Tools, Marvelous Designer, Polymating
+Extra tools that helps the development of Rhine :
+
+*Meshmachine, Machin3Tools, Marvelous Designer, Auto-Rig Pro, Polymating*
